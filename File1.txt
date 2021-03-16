@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Its File 1
 I am storing it on github repository MC_Progress
 Added new line in local repository
+=======
+Its my file 1
+Added new line on center repository
+>>>>>>> 13e132ce3ae6318aa3eeceda27b6e0e8ceab37b2
